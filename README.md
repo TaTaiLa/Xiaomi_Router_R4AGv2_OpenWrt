@@ -1,5 +1,8 @@
 # Xiaomi_R4AGv2_OpenWrt自编译固件-防校园网检测
 小米路由器4A千兆版v2，OpenWrt固件，带ua2f和rkp-ipid插件，防校园网检测，自编译固件
+* 首次登录地址: http://192.168.1.1/cgi-bin/luci/
+* 账号: root
+* 密码: password
 
 ## 参考教程
 * [视频教程](https://www.bilibili.com/video/BV1qM411w7W5/)
