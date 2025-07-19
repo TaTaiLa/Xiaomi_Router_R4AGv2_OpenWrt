@@ -8,6 +8,7 @@
 * [视频教程](https://www.bilibili.com/video/BV1qM411w7W5/)
 * [视频教程文档](https://y5hwpw3fsi.feishu.cn/docx/UO0wdHReDoUdewxwlpGckSjin3d)
 * [R4AGv2固件编译教程](https://www.bilibili.com/read/cv21136299/)
+* [编译视频教程](https://www.bilibili.com/video/BV1854y1W7fu/)
 
 ## 编译使用的源码
 * https://github.com/coolsnowwolf/lede
