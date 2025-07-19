@@ -14,6 +14,7 @@
 * https://github.com/coolsnowwolf/lede
 * https://github.com/MrTaiKe/Action_OpenWrt_Xiaomi_R4AGv2
 * https://github.com/P3TERX/Actions-OpenWrt
+* https://github.com/openwrt/openwrt/tree/openwrt-23.05
 
 ## 插件源码
 * https://github.com/EOYOHOO/UA2F
